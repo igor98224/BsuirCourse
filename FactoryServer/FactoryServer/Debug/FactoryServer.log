@@ -1,0 +1,22 @@
+﻿  Admin.cpp
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Admin.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Admin.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Admin.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Expert.cpp
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Expert.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Expert.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Expert.cpp(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Expert.cpp(151,29): warning C4805: ==: небезопасное смешение типа "bool" и типа "double" в операции
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Expert.cpp(204,35): warning C4018: <: несоответствие типов со знаком и без знака
+  Factory.cpp
+  FactoryServer.cpp
+  Manager.cpp
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Manager.cpp(5,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\Manager.cpp(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Method.cpp
+  User.cpp
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\User.cpp(82,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\User.cpp(83,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\морозкурс\FactoryServer\FactoryServer\User.cpp(199,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  FactoryServer.vcxproj -> C:\Users\Игорь\Desktop\морозкурс\FactoryServer\Debug\FactoryServer.exe
